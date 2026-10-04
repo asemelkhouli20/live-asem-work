@@ -1,0 +1,27 @@
+{
+  "domain": "https://live.asem.work",
+  "languages": {
+    "ar": "/",
+    "en": "/en/"
+  },
+  "runtime": "Node.js 24+; Nginx serves static files",
+  "checks": {
+    "typescript": "passed",
+    "bilingual_html_metadata_links_assets": "passed",
+    "meeting_storage_validation_rate_limit": "passed",
+    "http_origin_body_limit_404_compression": "passed",
+    "browser_visual_qa": "unavailable",
+    "live_server_deployment": "not performed"
+  },
+  "assets": {
+    "app-6d55770d7612.js": {
+      "bytes": 308216,
+      "gzip_bytes": 85982
+    },
+    "site-b68e0f3e1fd3.css": {
+      "bytes": 82519,
+      "gzip_bytes": 17562
+    },
+    "mobile_hero_webp_bytes": 23626
+  }
+}

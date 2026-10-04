@@ -1,0 +1,74 @@
+# Almond LiveLayer
+
+> A concept by Almond Lab for customizable digital guest experiences at events.
+
+- [Arabic, primary website](https://live.asem.work/)
+- [English website](https://live.asem.work/en/)
+- [Discuss an event concept](https://live.asem.work/#meeting)
+
+## Status and scope
+This site explains possibilities, not a finished off-the-shelf product. Demos, people imagery and metrics are illustrative, not evidence of customers or trials. No pricing, delivery guarantee or unverified integrations are claimed. A meeting form saves a request; it does not confirm a meeting or send a calendar invitation.
+
+## Possible additions
+### Experience passport — جواز التجربة
+Turn event zones into stops worth exploring. Guests scan each station, collect stamps, and unlock content or a reward when their journey is complete.
+حوّل أركان الفعالية إلى محطات تستحق الزيارة. يمسح الضيف رمز كل محطة، يجمع أختاماً، ويكتشف محتوى أو مكافأة عند إكمال الرحلة.
+Scope: Stamps and rewards are defined with the event team.
+
+### A discovery quest — مغامرة بين الأركان
+A clue leads to a booth. A challenge opens the next stop. Build a discovery route around your event’s story, beyond a simple list of places.
+سؤال يقود إلى جناح، وتحدٍ يفتح المحطة التالية. اصنع مسار اكتشاف مناسباً لقصة الفعالية، بدلاً من قائمة أماكن فقط.
+Scope: A QR-based experience; no live location tracking is assumed.
+
+### A guide in your pocket — مساعد يعرف المكان
+“Where’s my session?” “When does the show start?” A guide answers from approved event information and routes unanswered questions to your team.
+«وين جلستي؟» «متى يبدأ العرض؟» مساعد يجيب من معلومات الفعالية المعتمدة، ويوصل الأسئلة غير المجابة إلى فريقك.
+Scope: Approved content only; unknown answers go to a human.
+
+### A day that fits you — يوم على ذوقك
+Guests choose interests, save sessions, and discover suggestions for what to do next. A journey shaped around the individual.
+يختار الضيف اهتماماته، يحفظ الجلسات التي يحبها، ويجد اقتراحات لما يمكن أن يفعله بعدها. رحلة تختلف باختلاف الشخص.
+Scope: Personalization uses guest-shared data and agreed rules.
+
+### Give the crowd a voice — خلّ الجمهور يشارك
+Live polls, speaker questions, or a vote on what happens next. Let the phone connect the crowd with the stage.
+تصويت أثناء الجلسة، أسئلة للمتحدث، أو اختيار التجربة التالية. اجعل الهاتف جسراً بين الجمهور وما يحدث على المسرح.
+Scope: Publicly displayed questions need review and moderation.
+
+### Sponsors worth discovering — حضور للرعاة يُتفاعل معه
+A product experience, a booth challenge, exclusive content, or an optional connection request. Make the sponsor part of the guest journey.
+دعوة لتجربة منتج، تحدٍ في جناح الراعي، محتوى حصري أو طلب تواصل اختياري. حضور الراعي يصبح جزءاً من رحلة الضيف.
+Scope: Engagement measurement and rewards are scoped per project.
+
+### Connections with context — تعارف له معنى
+Guest-selected interests, profiles they choose to share, and consent-based meeting requests. Help people start a conversation worth having.
+اهتمامات يختارها الضيف، ملفات يقرر إظهارها، وطلبات لقاء بموافقته. ساعد الناس على بدء محادثة تستحق وقتهم.
+Scope: Participation is optional; advanced matching is separately scoped.
+
+### Moments to unlock — لحظات تنفتح لك
+After a session, its content becomes available. After a booth visit, another experience opens. Connect content to moments along the journey.
+بعد حضور جلسة، يظهر محتواها. بعد زيارة جناح، تنفتح تجربة إضافية. اربط المحتوى بلحظات يمر بها الضيف داخل الحدث.
+Scope: Unlocks depend on an interaction that can be verified.
+
+### A thoughtful VIP journey — عناية بالضيوف المهمّين
+A personal welcome, a private agenda, an arrival point, and help requests routed to the right team. Care at every step.
+ترحيب باسم الضيف، برنامجه الخاص، نقطة الاستقبال، وطلب مساعدة يصل للفريق المعني. عناية في كل خطوة.
+Scope: Uses available status and information; not an access-control system.
+
+### A more welcoming experience — تجربة ترحّب بالجميع
+Arabic and English, clear content, suitable accessibility options, and a guide to available facilities and routes. Make discovery easier.
+عربي وإنجليزي، محتوى واضح، خيارات وصول مناسبة، ودليل للمرافق والمسارات المتاحة. اجعل الاستكشاف أسهل.
+Scope: Access information is verified with the organizer.
+
+### Take the experience home — خذ التجربة معك
+Saved exhibitors, session content, useful links, and a short feedback survey. A place to return to after the event ends.
+قائمة العارضين المحفوظين، محتوى الجلسات، الروابط التي تهم الضيف واستبيان قصير. مساحة يعود إليها بعد انتهاء الفعالية.
+Scope: Available content and retention are defined by the organizer.
+
+### See beyond the crowd — شوف ما وراء الزحمة
+Saved sessions, recurring questions, booth engagement, and connection requests. Bring together signals that help the team and client understand the event.
+الجلسات المحفوظة، الأسئلة المتكررة، تفاعل الأجنحة وطلبات التواصل. اجمع إشارات تساعد فريقك والعميل على فهم ما حدث.
+Scope: Only data collected within agreed scope and permissions is shown.
+
+## Agency delivery
+Branding and the guest experience can be adapted to the event. The client and team agree on scope, permissions, content and integrations.

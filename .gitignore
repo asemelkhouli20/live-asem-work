@@ -1,0 +1,6 @@
+node_modules/
+.build/
+data/
+*.sqlite*
+meetings.csv
+.env*

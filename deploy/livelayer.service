@@ -1,0 +1,26 @@
+[Unit]
+Description=LiveLayer meeting requests
+After=network.target
+
+[Service]
+Type=simple
+User=livelayer
+Group=livelayer
+WorkingDirectory=/var/www/live.asem.work
+ExecStart=/usr/local/bin/node /var/www/live.asem.work/server/server.mjs
+Environment=NODE_ENV=production
+Environment=SITE_ORIGIN=https://live.asem.work
+Environment=PORT=3080
+Environment=TRUST_PROXY=1
+Environment=DATA_FILE=/var/lib/livelayer/meetings.sqlite
+Restart=on-failure
+RestartSec=3
+UMask=0077
+NoNewPrivileges=true
+PrivateTmp=true
+ProtectSystem=strict
+ProtectHome=true
+ReadWritePaths=/var/lib/livelayer
+
+[Install]
+WantedBy=multi-user.target
